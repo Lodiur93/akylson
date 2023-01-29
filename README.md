@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><a href="https://www.linkedin.com/in/akylson"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@akylson"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
+<p><a href="https://www.linkedin.com/in/akylson"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="+79267572600"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25></a></p>
 
 ### My name is Kanat Akylson :raising_hand: 
 I am IT professional with more than 10 years of experience in Information Technology Management and Operations. I am passionate about process improvement through automation, testing, and implementation. I am innovative and driven by learning about the latest tools and methodologies and applying my knowledge and skills to bring value to the organization I am a part of.
